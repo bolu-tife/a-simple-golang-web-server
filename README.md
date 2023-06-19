@@ -7,7 +7,7 @@ This is a simple web server written in Go that serves a static HTML file.
 1. Make sure you have Go installed on your machine.
 2. Clone or download this repository.
 3. Navigate to the project directory in your terminal.
-4. Run the following command to start the web server: go run main.go
+4. Run the following command to start the web server: ``` go run main.go ```
 5. Open your web browser and visit `http://localhost:8080` to access the server.
 
 ## Files
